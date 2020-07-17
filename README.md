@@ -1,12 +1,11 @@
 ### Hi there, I'm [Cofess!](https://blog.cofess.com/) 👋
 <br />
-<br />
 
 Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning Vue
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/cofess/hexo-theme-pure)
 - 💬 Ask me about anything [here](https://github.com/cofess/cofess/issues)
 
 **Languages and Tools:**  
@@ -22,9 +21,9 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cofess&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cofess&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/cofess/hexo-theme-pure)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/cofess/hexo-theme-pure">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
