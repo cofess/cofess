@@ -8,13 +8,13 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/cofess/hexo-theme-pure)
 - 💬 Ask me about anything [here](https://github.com/cofess/cofess/issues)
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -28,5 +28,5 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 </a>
 
 <a href="https://github.com/cofess/cofess.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=anuraghazra.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=cofess.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
