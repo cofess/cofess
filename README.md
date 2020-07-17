@@ -10,8 +10,9 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 ### My Tech Stack
 
 ![Apache](http://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
-![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
