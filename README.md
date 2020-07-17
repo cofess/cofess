@@ -3,10 +3,10 @@
 
 Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning Vue
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/cofess/hexo-theme-pure)
+- 🔭 I’m currently working on my personal project
+- 🌱 I’m currently learning Vue & Python
 - 💬 Ask me about anything [here](https://github.com/cofess/cofess/issues)
+- ⚡ Fun fact: I :heart: :dog:s
 
 <!-- **Languages and Tools:**  
 
