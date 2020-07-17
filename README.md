@@ -43,7 +43,7 @@ Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Cofess's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cofess&show_icons=true&hide_border=true)](https://github.com/cofess/hexo-theme-pure)
+[![Cofess's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cofess&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/cofess/hexo-theme-pure)
 
 <!-- <a href="https://github.com/cofess/hexo-theme-pure">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=hexo-theme-pure&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
