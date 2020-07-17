@@ -1,24 +1,13 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
-
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
+### Hi there, I'm [Cofess!](https://blog.cofess.com/) 👋
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Cofess, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/cofess/cofess/issues)
 
 **Languages and Tools:**  
 
@@ -39,6 +28,6 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/cofess/cofess.github.io">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cofess&repo=anuraghazra.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
